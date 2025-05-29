@@ -4,7 +4,8 @@
 
 ### Plan
 - Обрана гра: Arkanoid
---- Діаграми: [Use Case](1diagram.drawio.png), [Activity](activity.png), [Class](class.png)
+
+- Діаграми: [Use Case](1diagram.drawio.png), [Activity](2diagrama.drawio.png), [Class](class.png)
 
 ### Code
 - Клас Paddle: Рух платформи
